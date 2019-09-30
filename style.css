@@ -1,0 +1,27 @@
+
+html {
+	background-image: url(https://images.unsplash.com/photo-1562509941-d39515d14666?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover;
+	height: 100%
+}
+.btn-warning  { 
+	height:40px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:absolute;
+    top:80%; 
+    left:50%;
+}
+
+h1 {
+	position:absolute;
+	top:25%;
+	left:50%;
+	transform:translate(-45%,-70%);
+	color:rgb(242, 244, 244);
+	font-size: 300%;
+	font-family: 'Playfair Display', serif;
+}
+
